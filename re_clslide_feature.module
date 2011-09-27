@@ -1,0 +1,3 @@
+<?php
+
+include_once('re_clslide_feature.features.inc');
